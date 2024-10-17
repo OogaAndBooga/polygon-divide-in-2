@@ -1,0 +1,12 @@
+UI
+input polygon via clicks
+select point for division
+draw line
+
+divide into triangles
+
+Math
+divide in to triangles
+calc. area for convex poly
+showcase geometrical method
+  
